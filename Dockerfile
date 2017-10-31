@@ -1,4 +1,5 @@
-FROM ubuntu
+FROM ubuntu:latest
+
 MAINTAINER Srinivasa Reddy Challa <srinivasa.challa@sap.com>
 
 RUN DEBIAN_FRONTEND=noninteractive \
