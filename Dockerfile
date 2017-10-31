@@ -1,4 +1,4 @@
-FROM srinivasachalla/docker-ubuntu
+FROM ubuntu
 MAINTAINER Srinivasa Reddy Challa <srinivasa.challa@sap.com>
 
 RUN DEBIAN_FRONTEND=noninteractive \
