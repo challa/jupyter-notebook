@@ -10,7 +10,7 @@ RUN \
     pip install jupyter
 
 # Command to run
-ENTRYPOINT ["jupyter notebook --allow-root"]   
+#ENTRYPOINT ["jupyter notebook --allow-root"]   
 CMD [""]  
 
 # Expose listen port
