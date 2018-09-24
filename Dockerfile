@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Srinivasa Reddy Challa <srinivasa.challa@sap.com>
+MAINTAINER srinivasa reddy challa <srinivasa.challa@sap.com>
 
 RUN \
     apt-get update && \
